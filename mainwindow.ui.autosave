@@ -40,11 +40,6 @@
    </attribute>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
-  <action name="action_2">
-   <property name="text">
-    <string>Start Game</string>
-   </property>
-  </action>
   <action name="actionStart_Game">
    <property name="checkable">
     <bool>false</bool>
